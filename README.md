@@ -88,18 +88,13 @@
 
 Valorant is now a major game and a major sport. Many people around us are enjoying this exciting game, and Valorant applications have been developed on various platforms to improve their convenience. VALORANT applications use API as their basis, but some people stop developing due to the too many different APIs and the difficult usage for beginners. To help them, we are developing an API aggregation system that brings together all the VALORANT APIs in one place!
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Here's why you should use vbas:
+* Easy and simple, but powerful
+* Specific documentes for you
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Of course, it's not perfect yet. However, we will continue to improve it in the future.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
