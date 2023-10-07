@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/teamdoubleeight/vbas">
-     <img src="https://img.shields.io/github/stars/teamdoubleeight/vbas)" alt="stars">
+     <img src="https://img.shields.io/github/stars/teamdoubleeight/vbas" alt="stars">
   </a>
   <a href="https://github.com/teamdoubleeight/vbas">
      <img src="https://img.shields.io/github/languages/top/teamdoubleeight/vbas" alt="langs">
