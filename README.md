@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="[images/logo.png](https://media.discordapp.net/attachments/1045603394271838218/1160091238058446908/vbas.png?ex=65336628&is=6520f128&hm=0648b63f5c2f166b382f3671ea971f3900cca1864644f3f6d2f06640979a8eae&=)" alt="Logo" width="80" height="80">
+    <img src="https://media.discordapp.net/attachments/1045603394271838218/1160091238058446908/vbas.png?ex=65336628&is=6520f128&hm=0648b63f5c2f166b382f3671ea971f3900cca1864644f3f6d2f06640979a8eae&=" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
