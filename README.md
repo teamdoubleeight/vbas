@@ -19,9 +19,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
+<p align="center">
+  <a href="https://github.com/teamdoubleeight/vbas">
+     <img src="https://img.shields.io/github/v/release/teamdoubleeight/vbas" alt="release">
+  </a>
+  <a href="https://github.com/Rapptz/discord.py/">
+     <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
+</p>
 
 
 
