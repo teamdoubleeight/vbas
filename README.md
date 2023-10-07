@@ -30,8 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/vbas.png" alt="Logo">
+  <a href="https://github.com/teamdoubleeight/vbas">
+    <img src="images/vbas.png" alt="VBASLOGO" width=362 height=193>
   </a>
 
   <h3 align="center">Best-README-Template</h3>
