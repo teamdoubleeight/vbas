@@ -39,10 +39,12 @@
     <img src="images/vbas.png" alt="VBASLOGO" width=362 height=193>
   </a>
 
-  <h3 align="center">VBAS 2.0</h3>
+  <h3 align="center">VBAS 2.0 - Beta version</h3>
 
   <p align="center">
     The best python valorant api module, written in python3
+    <br />
+    This is beta version now, and the official release will be on June, 2024
     <br />
     <a href="https://github.com/teamdoubleeight/vbas"><strong>Explore the docs »</strong></a>
     <br />
