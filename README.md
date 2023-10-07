@@ -46,14 +46,8 @@
     <br />
     This is beta version now, and the official release will be on June, 2024
     <br />
-    <a href="https://github.com/teamdoubleeight/vbas"><strong>Explore the docs »</strong></a>
+    <a href="https://valobot.gitbook.io/vbas"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/teamdoubleeight/vbas">View Demo</a>
-    ·
-    <a href="https://github.com/teamdoubleeight/vbas/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/teamdoubleeight/vbas/issues">Request Feature</a>
   </p>
 </div>
 
